@@ -1,0 +1,59 @@
+.logo{
+    display: block;
+    margin: auto;
+    width: 50px;
+    height: 50px;
+
+}
+.cointner{
+    max-width: 800px;
+    border: 2px solid black;
+    margin: auto;
+    height: 70vh;
+    padding: 33px;
+    overflow-y: auto;
+    margin-bottom: 23px;
+
+}
+.massege{
+    background-color:  gray;
+    width: 24%;
+    padding: 10px;
+    margin: 4px 12px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+.left{
+
+    float: left;
+    clear: both;
+}
+
+.right{
+    float: right;
+    clear: both;
+
+}
+#send-cointain{
+    display: block;
+    margin: auto;
+    text-align: center;
+    max-width: 980px;
+
+}
+#massageInp{
+    width: 76%;
+    border: 2px solid black;
+    border-radius: 6px;
+    height: 23px;
+}
+.btn{
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 6px;
+}
+body{
+    height: 100vh;
+    background-image: linear-gradient(rgb(253, 253, 253),rgb(25, 23, 151));
+}
